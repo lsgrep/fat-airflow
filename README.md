@@ -3,7 +3,7 @@
 [![fat-airflow](https://img.shields.io/docker/cloud/build/lsgrep/fat-airflow?style=flat-square)](https://hub.docker.com/r/lsgrep/fat-airflow)
 
 
-#### How to
+#### How to Run
 
 > docker pull lsgrep/fat-airflow
 
